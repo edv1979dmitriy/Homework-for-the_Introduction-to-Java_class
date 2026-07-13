@@ -5,7 +5,7 @@ out/
 .kotlin
 .idea/
 Homework for the_Introduction to Java_class.iml
-.iml
+*.iml
 
 ### Eclipse ###
 .apt_generated
